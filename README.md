@@ -15,7 +15,7 @@ Click the deployed link below to see the actual site! Specify the conditions you
 
 ## Deployed Link
 
-* [See Live Site]()
+* [See Live Site](https://eajayd.github.io/password-generator/)
 
 
 ## Preview

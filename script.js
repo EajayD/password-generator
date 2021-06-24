@@ -19,8 +19,12 @@ function writePassword() {
       if (isNaN(characters) || characters < 8 || characters > 128){
         alert("MUST BE 8-128 CHARACTERS ONLY");
       }
-    }
+      userAlpha = confirm("Do you want lowercase letters?");
+      userAlphaUpper = confirm("Do you want uppercase letters?");
+      userNumbers = confirm("Do you want numbers?");
+      userSpecial = confirm("Do you want special characters?");
 
+      }  
   var passwordText = document.querySelector("#password");
 
   passwordText.value = password;

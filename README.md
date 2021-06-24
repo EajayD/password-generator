@@ -1,6 +1,6 @@
 # password-generator
 
-
+Has a site ever told you that your password was too weak or that it did not satisfy certain criteria? Look no further than this password generator which will give you a randomized password containing upper to lowercase letters, numbers and special characters! The choice is yours as to what you want to include in the password. Now websites will never say your password is weak, we only create strong passwords around these parts.
 
 ## Getting Started
 
@@ -15,12 +15,12 @@ Click the deployed link below to see the actual site! Specify the conditions you
 
 ## Deployed Link
 
-* [See Live Site](https://eajayd.github.io/portfolio-alpha/)
+* [See Live Site]()
 
 
 ## Preview
 
-<img>
+<img src= "Screenshot.png" alt= "site preview"/>
 
 ## Authors
 
@@ -31,5 +31,5 @@ Click the deployed link below to see the actual site! Specify the conditions you
 
 ## Acknowledgments
 
-* I'd like to thank the class repositories for being available to view and reference to get ideas on certain styles and what not
-* w3schools always an MVP when trying to figure out certain properties. They also had nice templates for reference which allowed me to get a vague idea of how I wanted to layout my page. Wireframing :)
+* i'd like to thank my classmates once again, talking through different thought processes of how to approach this certain assignment allowed me to get an idea of how I wanted to approach it. Also going a little more in depth of certain functions of javascript and the many ways you can write something and still get to the same solution.
+* w3schools for grabbing some string methods and the pop up box method.
